@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Olá, seja bem-vindo! Eu sou o Charles Daniel 🤓
+<h1> Olá, seja bem-vindo! Eu sou o Charles "chadaan" Daniel 🤓
 
   <a href="https://www.linkedin.com/in/chadaan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/charlesodaaniel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
